@@ -1,0 +1,24 @@
+{
+  "name": "kSqIT",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Eeeashan <eashan_007@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Eeeashan/kSqIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "angular": "^1.6.2",
+    "underscore": "^1.8.3",
+    "jquery": "^3.1.1"
+  }
+}
